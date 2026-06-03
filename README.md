@@ -28,9 +28,9 @@
 
 I'm a Full Stack MERN Developer passionate about building modern web applications and AI-powered solutions.
 
-- 🎓 BS Computer Science Student
-- 💼 Software Developer Intern at Soneri Bank
-- 🌱 Currently exploring advanced AI integrations and scalable web architectures
+- 🎓 BS Computer Science Graduate
+- 💼 Software Developer at Soneri Bank
+- 🌱 Currently exploring AI automation and Agentic AI and AI integrations in scalable web architectures
 - 🤖 Building AI-powered SaaS products
 - 🔍 Interested in Full Stack Development, AI Engineering, and Product Development
 - ⚡ Love turning ideas into real-world applications
@@ -52,6 +52,8 @@ I'm a Full Stack MERN Developer passionate about building modern web application
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
 
@@ -67,6 +69,7 @@ I'm a Full Stack MERN Developer passionate about building modern web application
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -96,6 +99,7 @@ AI-powered platform featuring:
 - Article & Blog Generation
 - Image Generation
 - Resume Review
+- Object & BG Remover
 - AI Document Conversion
 - Gemini API Integration
 
@@ -146,11 +150,11 @@ Features:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilrahman-code&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilrahman-code&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilrahman-code&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilrahman-code&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzammilrahman-code&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=muzammilrahman-code&theme=tokyonight)
 
 </div>
 
@@ -159,19 +163,40 @@ Features:
 ## 🎯 Current Focus
 
 ```javascript
-const currentFocus = {
-  frontend: ["React.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "PostgreSQL"],
-  ai: ["Gemini API", "OpenAI", "LangChain"],
+const muzammil = {
+  role: "Full Stack MERN Developer",
+
   building: [
-    "AI SaaS Applications",
-    "Productivity Tools",
-    "Full Stack Platforms"
+    "AI SaaS Products",
+    "AI Interview Platforms",
+    "Modern Full Stack Applications"
+  ],
+
+  workingWith: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+
+  aiStack: [
+    "OpenAI",
+    "Gemini API",
+    "LangChain",
+    "RAG"
+  ],
+
+  currentlyExploring: [
+    "AI Agents",
+    "AI Automation",
+    "Agentic Workflows",
+    "Workflow Automation",
+    "Multi-Agent Systems",
+    "Advanced LLM Applications"
   ]
 };
 ```
-
 ---
 
 ## 📫 Connect With Me
